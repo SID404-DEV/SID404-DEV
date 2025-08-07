@@ -67,11 +67,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SID404-DEV/SID404-DEV/output/snake.svg" alt="Snake animation" />
-
-
-###
